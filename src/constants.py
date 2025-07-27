@@ -1,1 +1,1 @@
-API_KEY = "AIzaSyAKgvCJ4eqN61Opls9BFOt_4QIEXsXngdc"
+API_KEY = "<API KEY is not exposed to public>"
