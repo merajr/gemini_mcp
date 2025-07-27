@@ -1,0 +1,14 @@
+# Core
+streamlit
+google-generativeai
+
+# File support
+pymupdf           # for reading PDFs
+python-docx       # for reading DOCX files
+
+# Web scraping
+beautifulsoup4
+requests
+
+# Wikipedia access
+wikipedia
