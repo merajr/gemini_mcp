@@ -4,6 +4,11 @@ This project is a LangChain-style, [Model Context Protocol (MCP)](https://smith.
 
 ---
 
+## Screen Shots
+
+<img width="1783" height="824" alt="image" src="https://github.com/user-attachments/assets/2bf3d719-8f14-484f-8a74-37bcaac54a90" />
+
+
 ## 🚀 Features
 
 ✅ Gemini Pro API integration  
